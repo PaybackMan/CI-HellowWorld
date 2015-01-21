@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 
 namespace CI_HelloWorld.Controllers
-{sdfsdf
+{
     public class HomeController : Controller
     {
         public ActionResult Index()
