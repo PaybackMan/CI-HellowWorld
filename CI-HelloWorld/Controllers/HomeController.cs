@@ -15,7 +15,7 @@ namespace CI_HelloWorld.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application ci page.";
+            ViewBag.Message = "Your applica  tion ci page.";
 
             return View();
         }
