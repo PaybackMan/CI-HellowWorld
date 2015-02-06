@@ -11,7 +11,7 @@ using Microsoft.Owin.Security;
 using CI_HelloWorld.Models;
 
 namespace CI_HelloWorld.Controllers
-{
+{  
     [Authorize]
     public class AccountController : Controller
     { 
