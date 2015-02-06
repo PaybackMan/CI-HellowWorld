@@ -22,7 +22,7 @@ namespace CI_HelloWorld.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Yotttur co ct pooage.";
+            ViewBag.Message = "Yottt  ur co ct pooage.";
 
             return View();
         }
