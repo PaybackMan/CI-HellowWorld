@@ -14,7 +14,7 @@ namespace CI_HelloWorld.Controllers
 {
     [Authorize]
     public class AccountController : Controller
-    {
+    { 
         private ApplicationUserManager _userManager;
  
         public AccountController() 
