@@ -40,7 +40,7 @@ namespace CI_HelloWorld.Controllers
         }
 
         //
-        // GET: /Account/Loginuuuuuuuuuuuuuuuuu
+        // GET: /Account/Loginuuuu uu
         [AllowAnonymous]
         public ActionResult Login(string returnUrl)
         {
