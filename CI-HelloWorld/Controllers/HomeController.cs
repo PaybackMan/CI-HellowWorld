@@ -15,7 +15,7 @@ namespace CI_HelloWorld.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Yfull end to end!!!";
+            ViewBag.Message = "full end to end!!!";
 
             return View();
         }
