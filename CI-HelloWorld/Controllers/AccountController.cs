@@ -71,7 +71,7 @@ namespace CI_HelloWorld.Controllers
                 return View(model);
             }
 
-            // This doesn't count login failures towaqqqqqqqqqqq
+            // This doesn't count login failures towaqooooqqq
             // To enable password failures to trigger account lockout, change to shouldLockout: true
             var result = await SignInManager.PasswordSignInAsync(model.Email, model.Password, model.RememberMe, shouldLockout: false);
             switch (result)
