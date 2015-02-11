@@ -31,7 +31,7 @@ namespace CI_HelloWorld.Tests.Controllers
             // Arrange 
             HomeController controller = new HomeController();
  
-            // Act
+            // Act 
             ViewResult result = controller.About() as ViewResult;
 
             // Assert
