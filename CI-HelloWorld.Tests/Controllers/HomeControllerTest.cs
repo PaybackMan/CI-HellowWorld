@@ -37,7 +37,7 @@ namespace CI_HelloWorld.Tests.Controllers
             // Assert
             Assert.IsTrue(true);
         }
-
+ 
         [TestMethod]
         public void Contact()
         {
