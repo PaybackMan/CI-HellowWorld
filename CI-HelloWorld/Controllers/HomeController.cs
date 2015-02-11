@@ -19,7 +19,7 @@ namespace CI_HelloWorld.Controllers
 
             return View();
         }
-
+ 
         public ActionResult Contact()
         {
             ViewBag.Message = "Ya1tttt11oage.";
