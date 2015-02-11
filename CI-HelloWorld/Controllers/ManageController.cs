@@ -15,7 +15,7 @@ namespace CI_HelloWorld.Controllers
     {
         public ManageController()
         {
-        }
+        } 
 
         public ManageController(ApplicationUserManager userManager)
         {
