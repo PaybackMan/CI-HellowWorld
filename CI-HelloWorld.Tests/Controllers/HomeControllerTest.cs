@@ -20,7 +20,7 @@ namespace CI_HelloWorld.Tests.Controllers
 
             // Act
             ViewResult result = controller.Index() as ViewResult;
-
+ 
             // Assert
             Assert.IsNotNull(result);
         }
