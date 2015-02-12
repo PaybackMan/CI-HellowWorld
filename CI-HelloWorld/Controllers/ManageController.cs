@@ -19,7 +19,7 @@ namespace CI_HelloWorld.Controllers
 
         public ManageController(ApplicationUserManager userManager)
         {
-            UserManager = userManager;
+            UserManager = userManager; 
         }
 
         private ApplicationUserManager _userManager;
