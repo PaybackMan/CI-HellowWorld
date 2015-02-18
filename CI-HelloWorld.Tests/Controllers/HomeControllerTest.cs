@@ -35,7 +35,7 @@ namespace CI_HelloWorld.Tests.Controllers
             ViewResult result = controller.About() as ViewResult;
 
             // Assert
-            Assert.IsTrue(true);
+            Assert.IsTrue(false);
         }
  
         [TestMethod]
