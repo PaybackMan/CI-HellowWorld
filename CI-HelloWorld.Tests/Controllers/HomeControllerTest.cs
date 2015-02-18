@@ -34,7 +34,7 @@ namespace CI_HelloWorld.Tests.Controllers
             // Act 
             ViewResult result = controller.About() as ViewResult;
 
-            // Assert
+            // As sert  
             Assert.IsTrue(false);
         }
  
