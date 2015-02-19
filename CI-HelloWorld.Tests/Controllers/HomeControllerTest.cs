@@ -17,7 +17,7 @@ namespace CI_HelloWorld.Tests.Controllers
         {                      
             // Arran           ge        
             HomeController controller = new HomeController(); 
-                
+                  
             // Act        
             ViewResult result = controller.Index() as ViewResult;
  
