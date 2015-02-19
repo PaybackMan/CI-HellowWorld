@@ -15,7 +15,7 @@ namespace CI_HelloWorld.Tests.Controllers
         [TestMethod] 
         public void Index()    
         {                       
-            // A  rran           ge        
+            // A  rran            ge        
             HomeController controller = new HomeController(); 
                   
             // Act        
