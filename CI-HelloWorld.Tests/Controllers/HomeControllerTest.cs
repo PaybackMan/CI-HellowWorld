@@ -13,7 +13,7 @@ namespace CI_HelloWorld.Tests.Controllers
     public class HomeControllerTest
     {
         [TestMethod] 
-        public void Index()   
+        public void Index()    
         {             
             // Arrange        
             HomeController controller = new HomeController(); 
