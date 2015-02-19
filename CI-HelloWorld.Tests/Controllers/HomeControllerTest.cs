@@ -27,7 +27,7 @@ namespace CI_HelloWorld.Tests.Controllers
 
         [TestMethod]
         public void About()
-        { 
+        {   
             // Arrange      33
             HomeController controller = new HomeController();
  
