@@ -8,7 +8,7 @@ using CI_HelloWorld;
 using CI_HelloWorld.Controllers;
 
 namespace CI_HelloWorld.Tests.Controllers
-{
+{   
     [TestClass] 
     public class HomeControllerTest
     {
