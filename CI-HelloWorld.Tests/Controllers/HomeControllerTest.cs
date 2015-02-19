@@ -18,7 +18,7 @@ namespace CI_HelloWorld.Tests.Controllers
             // Arrange        
             HomeController controller = new HomeController(); 
                 
-            // Act      
+            // Act        
             ViewResult result = controller.Index() as ViewResult;
  
             // As  sert  
