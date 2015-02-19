@@ -14,7 +14,7 @@ namespace CI_HelloWorld.Tests.Controllers
     {    
         [TestMethod] 
         public void Index()    
-        {                      
+        {                       
             // Arran           ge        
             HomeController controller = new HomeController(); 
                   
