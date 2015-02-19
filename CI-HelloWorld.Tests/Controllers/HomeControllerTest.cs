@@ -11,7 +11,7 @@ namespace CI_HelloWorld.Tests.Controllers
 {   
     [TestClass] 
     public class HomeControllerTest
-    {
+    {    
         [TestMethod] 
         public void Index()    
         {             
