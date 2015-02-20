@@ -11,7 +11,7 @@ namespace CI_HelloWorld.Controllers
         public ActionResult Index() 
         {
             return View(); 
-        }
+        } 
       
         public ActionResult About()
         {
